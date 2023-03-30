@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PandanTersakiti
+- 👋 Hi, I’m Irfan Danial
 - 👀 I’m interested in Mobile games 
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on ...
